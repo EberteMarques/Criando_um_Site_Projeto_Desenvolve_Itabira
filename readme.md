@@ -5,3 +5,5 @@
 *comando git pull
 
 *comando git fetch
+
+#FAZENDO TESTE DE NOVAS MODIFICAÇÕES NO REPOSITÓRIO REMOTO
