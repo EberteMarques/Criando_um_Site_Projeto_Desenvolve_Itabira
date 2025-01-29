@@ -24,7 +24,13 @@ a) abra o vc code e acesse a pasta onde você irá desenvolver seu projeto;
 
 b) No terminal do VC code digite o comando: git init, pressione a tecla ENTER;
 
-c) 
+c) crie os arquivos, quando estiver satisfeito, no terminal digite git init e pressione a tecla ENTER;
+
+c) No terminal digite: git add e o nome do arquivo e pressione a tecla ENTER;
+
+d) No terminal digite: git commit -m "digite uma mensagem" e precione a tecla ENTER;
+
+e) 
 
 *comando git push
 
